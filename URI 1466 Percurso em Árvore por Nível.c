@@ -1,6 +1,6 @@
 /*
   autor: Benjamim Rees Pereira do Nascimento
-  problem: 1466 - Operações em ABP II
+  problem: 1466 - Percurso em Árvore por Nível
 */
 
 #include <stdio.h>
